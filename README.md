@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# ClusterPDF Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the ClusterPDF Website README! This document provides an overview of the ClusterPDF website and its features.
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+ClusterPDF is a versatile online platform that offers a suite of tools to manage and manipulate PDF files conveniently. With a user-friendly interface and a wide range of features, ClusterPDF makes working with PDFs efficient and hassle-free.
 
-### `npm start`
+![Home Page](https://github.com/amarakumbhar1234/cluster-pdf/blob/master/docs/project-intro.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Features
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **PDF Conversion:** Easily convert various file formats to and from PDF, including Word, Excel, PowerPoint, and image files.
 
-### `npm test`
+- **PDF Editing:** Edit existing PDFs by adding text, images, annotations, and shapes. Modify pages, rotate, or rearrange them as needed.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **PDF Compression:** Reduce the file size of PDFs without compromising quality, making sharing and sending files quicker and more efficient.
 
-### `npm run build`
+- **PDF Merging & Splitting:** Combine multiple PDFs into a single document or split large PDFs into smaller, manageable files.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **eSignatures:** Sign PDF documents electronically. Request signatures from others and track the signing process.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **PDF Security:** Protect sensitive information with password encryption and permissions. Remove sensitive data from PDFs as well.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **OCR (Optical Character Recognition):** Convert scanned documents and images into editable and searchable PDFs.
 
-### `npm run eject`
+- **Mobile Access:** Access and use ClusterPDF's features on the go with their mobile app.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Usage
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Choosing a Tool:** Select the desired tool from the homepage based on your PDF-related needs.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+2. **Uploading Files:** Upload your PDF or other supported files directly from your computer or cloud storage.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+3. **Using the Tool:** Utilize the tool's features, follow on-screen instructions, and make necessary adjustments.
 
-## Learn More
+4. **Saving and Downloading:** Once you've made your changes, save the PDF or download it to your device.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Demo Page](https://github.com/amarakumbhar1234/cluster-pdf/blob/master/docs/project-intro.png)
